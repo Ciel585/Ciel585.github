@@ -1,0 +1,15 @@
+
+.block1 {
+    text-align: center;
+    height:100px;
+    border-radius: 15px;    
+    background-color: rgba(104, 255, 242,0.5);
+    font-size: 50px;
+    padding-top: 30px;
+}
+.block2 {
+    font-size: 25px;
+}
+.block3 {
+    font-size: 25px;
+}
